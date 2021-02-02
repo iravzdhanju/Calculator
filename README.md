@@ -1,11 +1,11 @@
-# Calculator
- ##This is a VueJs project
+### Calculator
+ ## This is a VueJs project
 
-#Project setup
+### Project setup
 # $npm install
 
-#Compiles and hot-reloads for development
+### Compiles and hot-reloads for development
 # $npm run serve
 
-#Lints and fixes files
+### Lints and fixes files
 # $ npm run lint
