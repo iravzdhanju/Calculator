@@ -9,3 +9,6 @@
 
 ### Lints and fixes files
 # $ npm run lint
+
+### Visit this App through
+# http://responsive-calculator-vuejs.herokuapp.com/
